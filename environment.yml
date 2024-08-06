@@ -1,0 +1,11 @@
+name: liver-mtnn
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.9
+  - pandas
+  - rdkit=2021.09.4
+  - ipykernel
+  - pytorch=1.10.2
